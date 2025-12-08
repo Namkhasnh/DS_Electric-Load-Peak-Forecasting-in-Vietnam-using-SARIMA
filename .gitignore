@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# IDE directories
+.vscode/
+.idea/
+
+# Data or output files
+evn_peak_load_daily_page_param.csv
